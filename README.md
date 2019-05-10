@@ -17,6 +17,7 @@
 - Install YouTube AdAway App
 - Open Xposed Installer App and enable my App on the modules list
 - Reboot
+- Run my application and give it SDCard read/write permissions, as they are needed for self-upgrades.
 
 ## Report a bug:
 1- Tell me about your phone model, system version, YouTube version
@@ -43,7 +44,9 @@
 - 安装 Xposed Installer 应用程序
 - 安装 Xposed框架
 - 安装 NoAds-For-YouTube 应用程序 
-- 打开 Xposed Installer 应用程序, 并启用我的应用程序然后重启手机
+- 打开 Xposed Installer 应用程序, 并启用我的应用程序
+- 重启手机
+- 运行我的应用程序并给它SDCard读/写权限，因为自我升级的时候需要它们。
 
 ## 报告一个Bug：
 1- 告诉我您的手机型号，系统版本，YouTube版本
