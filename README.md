@@ -1,4 +1,5 @@
-# NoAds-For-YouTube \ YouTube去广告
+# EN name: NoAds-For-YouTube
+# CN name: YouTube去广告
 
 ---------------------------------------------------------------
   ^_^ 中文用户请向下看，先照顾一下国际友人 ^_^
