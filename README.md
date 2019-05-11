@@ -1,4 +1,4 @@
-# EN name: NoAds-For-YouTube
+# EN name: NoAds For YouTube
 # CN name: YouTube去广告
 
 ---------------------------------------------------------------
