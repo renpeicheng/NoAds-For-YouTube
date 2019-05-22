@@ -65,10 +65,10 @@
 ## 使用手机二维码扫一扫
 
 ### 微信扫一扫 
-![image](https://github.com/ohyeah521/NoAds-For-YouTube/blob/master/images/wechat.jpg)
+![image](https://github.com/ohyeah521/NoAds-For-YouTube/raw/master/images/wechat.jpg)
 
 ### 支付宝扫一扫
-![image](https://github.com/ohyeah521/NoAds-For-YouTube/blob/master/images/alipay.jpg)
+![image](https://github.com/ohyeah521/NoAds-For-YouTube/raw/master/images/alipay.jpg)
 
 其他捐赠方式
   * [通过PayPal一次性捐赠](https://paypal.me/wovow/10)
