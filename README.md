@@ -31,7 +31,7 @@
 - If you get any issues playing YouTube videos you can just uninstall my App or disable it on the Xposed modules list
 
 ## Donate:
-  * [Donate By PayPal](https://paypal.me/wovow/10)
+  * [Donate By PayPal (https://paypal.me/wovow/)](https://paypal.me/wovow/) 
   
 ## Acknowledgement:
 - Special thanks: Wanam (https://github.com/wanam/YouTubeAdAway)
